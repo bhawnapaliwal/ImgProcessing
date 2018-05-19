@@ -75,4 +75,5 @@ void main()
 		default : printf("You have entered wrong choice.\n");
 		          break;
 	}
+return;
 }
